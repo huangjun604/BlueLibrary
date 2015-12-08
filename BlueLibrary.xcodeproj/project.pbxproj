@@ -27,8 +27,8 @@
 /* Begin PBXFileReference section */
 		1C6EDD701C15A98100ADB917 /* Album.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Album.h; sourceTree = "<group>"; };
 		1C6EDD711C15A98100ADB917 /* Album.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Album.m; sourceTree = "<group>"; };
-		1C6EDD761C15B2DD00ADB917 /* AlbumView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AlbumView.h; path = ../AlbumView.h; sourceTree = "<group>"; };
-		1C6EDD771C15B2DD00ADB917 /* AlbumView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AlbumView.m; path = ../AlbumView.m; sourceTree = "<group>"; };
+		1C6EDD761C15B2DD00ADB917 /* AlbumView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AlbumView.h; path = "/Users/huangjun/Development/objective-c/BlueLibrary/BlueLibrary/AlbumView.h"; sourceTree = "<absolute>"; };
+		1C6EDD771C15B2DD00ADB917 /* AlbumView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlbumView.m; sourceTree = "<group>"; };
 		1C6EDD791C15BB9500ADB917 /* LibraryAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibraryAPI.h; sourceTree = "<group>"; };
 		1C6EDD7A1C15BB9500ADB917 /* LibraryAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibraryAPI.m; sourceTree = "<group>"; };
 		1C6EDD7C1C16471900ADB917 /* PersistencyManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersistencyManager.h; sourceTree = "<group>"; };
