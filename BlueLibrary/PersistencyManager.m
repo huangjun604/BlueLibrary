@@ -29,7 +29,7 @@
     return self;
 }
 
-- (NSArray*)getAlbums
+- (NSArray *)getAlbums
 {
     return albums;
 }
